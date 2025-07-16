@@ -1,0 +1,31 @@
+@media (max-width: 1100px){
+  .sobre-mim{
+    flex-direction: column-reverse;
+  }
+
+  .camilo-perfil{
+    border-radius: 50%;
+    
+  }
+  .videoacom{
+    padding-bottom: 80px;
+  }
+
+  .swiper-slide{
+    margin-bottom: 50px;
+  }
+  
+  .contact-cont{
+    flex-direction: column-reverse;
+  }
+  .cardvideo{
+    width: 100%;
+  }
+
+  .contato-options{
+    margin-top: 40px;
+  }
+  .cards-enderecos{
+    flex-direction: column;
+  }
+}
